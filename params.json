@@ -1,6 +1,11 @@
 {
   "name": "Xuxinxxx.GitHub.io",
+<<<<<<< HEAD
   "tagline": "这是一个关于电商的app",
   "body": "# 项目展示列表\r\n* 项目一\r\n* 项目二",
+=======
+  "tagline": "这是一个项目",
+  "body": "#  这是个电商的项目\r\n## 徐鑫\r\n项目1\r\n项目2\r\n项目3",
+>>>>>>> 267d5962b11e9c21594b2de4bd0b50ff50f12ef3
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
